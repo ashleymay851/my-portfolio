@@ -1,0 +1,41 @@
+
+body {
+    font-family: Arial, sans-serif; 
+    color: #333333; 
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Helvetica', sans-serif; 
+    color: #007bff; 
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px; 
+    background-color: #f8f9fa; 
+  }
+  
+  
+  .image-container {
+    text-align: center;
+    margin-top: 20px; 
+  }
+  
+  #myImage {
+    width: 400px; 
+    height: auto;
+    border: 3px solid #ccc; 
+    border-radius: 8px; 
+  }
+
+  .footer {
+    background-color: #343a40; 
+    color: white; 
+    text-align: center;
+    padding: 10px 0; 
+    position: fixed; 
+    width: 100%; 
+    bottom: 0; 
+  }
+  
